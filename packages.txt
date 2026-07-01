@@ -1,0 +1,59 @@
+# sleepydotfiles - packages
+# Install with: sudo pacman -S --needed - < packages.txt
+# For AUR packages, use: paru -S --needed - < packages.txt
+
+# ── Window Manager / Shell ─────────────────────────────────────────────────────
+hyprland
+cachyos-hypr-noctalia       # noctalia shell (quickshell-based)
+uwsm                        # universal wayland session manager (if used)
+
+# ── Terminal ───────────────────────────────────────────────────────────────────
+ghostty
+kitty
+
+# ── Shell ──────────────────────────────────────────────────────────────────────
+cachyos-fish-config         # fish shell + CachyOS defaults
+
+# ── Editor ────────────────────────────────────────────────────────────────────
+neovim
+
+# ── Fonts ─────────────────────────────────────────────────────────────────────
+ttf-iosevka-nerd
+ttf-meslo-nerd
+noto-fonts
+noto-fonts-emoji
+inter-font
+cantarell-fonts
+
+# ── System Monitoring / CLI Tools ─────────────────────────────────────────────
+btop
+fastfetch
+cava
+lazygit
+ripgrep
+yazi
+zoxide
+duf
+git
+
+# ── Wayland Utilities ─────────────────────────────────────────────────────────
+wl-clipboard                # clipboard support in Wayland
+brightnessctl               # brightness control (used in keybinds)
+playerctl                   # media key controls (play/pause/next)
+
+# ── Audio / Video ─────────────────────────────────────────────────────────────
+pipewire-alsa
+pipewire-pulse
+wireplumber
+pavucontrol
+
+
+# ── Apps ──────────────────────────────────────────────────────────────────────
+brave-bin                   # browser (AUR)
+vesktop                     # Discord client
+spotify                     # music (AUR)
+qbittorrent
+vlc-plugins-all
+
+# ── AUR Helper ────────────────────────────────────────────────────────────────
+paru
