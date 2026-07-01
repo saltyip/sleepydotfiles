@@ -3,11 +3,9 @@
 
 ## versions
 
-| | |
-|---|---|
-| os | CachyOS |
-| wm | Hyprland `0.55.4` |
-| shell | Noctalia `0.0.12` |
+ os  CachyOS 
+ wm  Hyprland `0.55.4` 
+ shell  Noctalia `0.0.12` 
 
 ---
 

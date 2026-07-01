@@ -32,8 +32,6 @@ link fish        fish
 link ghostty     ghostty
 link kitty       kitty
 link fastfetch   fastfetch
-link btop        btop
-link cava        cava
 link lazygit     lazygit
 
 echo ""
